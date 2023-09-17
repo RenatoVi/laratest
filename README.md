@@ -66,7 +66,7 @@ alternativa rapida para projetos bem pequenos, onde é gerado atraves das rotas 
 
 Tambem foi criado um arquivo em [collections/Laratest.postman_collection.json] para ser importado no postman, para testar as rotas. 
 junto ao arquivo tambem existe outro [collections/laratest.postman_environment.json] que são as variaveis de ambiente para 
-serem usadas no postman.
+serem usadas no postman. (Recomendado)
 
 ## Testes
 
