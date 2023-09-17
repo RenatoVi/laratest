@@ -36,7 +36,7 @@ obs: porta do redis para ser acessado por fora do container
 
 > docker-compose up -d
 
-> docker-compose exec -it {alias_do_nome_do_projeto}_web sh
+> docker exec -it {alias_do_nome_do_projeto}_web sh
 
 > composer install
 
