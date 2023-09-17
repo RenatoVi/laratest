@@ -62,7 +62,11 @@ Para acessar a documentação do projeto, acesse o link:
 > http://localhost:{APP_PORT}/documentation
 
 json para login:
-> {"email": "gerente1@exemple.com","password":"password"} ou {"email": "gerente2@exemple.com","password":"password"} 
+> {"email": "gerente1@exemple.com","password":"password"}
+
+ou 
+
+> {"email": "gerente2@exemple.com","password":"password"}
 
 obs: Essa documentação foi gerada automaticamente pelo pacote [rakutentech/laravel-request-docs], é uma 
 alternativa rapida para projetos bem pequenos, onde é gerado atraves das rotas criadas. É possivel interagir semelhante ao swagger.
